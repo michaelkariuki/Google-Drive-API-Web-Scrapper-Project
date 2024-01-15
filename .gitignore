@@ -1,0 +1,9 @@
+__pycache__/
+upload_sandbox/
+g_drive_mt.json
+geckodriver.log
+token.json
+Credentials/credentials.json
+downloads/*
+!downloads/.gitkeep
+.env
